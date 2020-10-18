@@ -4,7 +4,8 @@
   "description": "note-take",
   "main": "server.js",
   "dependencies": {
-    "check-localhost": "0.0.1"
+    "check-localhost": "0.0.1",
+    "express": "^4.17.1"
   },
   "devDependencies": {},
   "scripts": {
